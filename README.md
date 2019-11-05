@@ -1,3 +1,3 @@
 # workflow course
 
-I'm from the videos on linkedin learning.
+I'm learning from the videos on linkedin learning.
